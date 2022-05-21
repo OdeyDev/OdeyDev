@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Noah, and I love to code!
+
+I have recently started learning to develop websites and programs.
+
+😄 Pronouns: he/him
+💾Languages I learned a bit of but left to focus on JS:
+🌱 Currently focused on learning: 
+
 <!--
 **odeyity/odeyity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

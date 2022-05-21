@@ -6,7 +6,7 @@ I have recently started learning to develop websites and programs.
 ### 😄 Pronouns 
 he/him
 
-### 💾Languages I learned a bit of but left to focus on JS
+### 💾Languages I temporarily stopped learning
 <div class="lang">
 <img src="/img/css-3.svg" width="48" height="48">
 <img src="/img/html-5.svg" width="48" height="48">

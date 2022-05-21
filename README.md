@@ -11,8 +11,8 @@ he/him
 <img src="/img/css-3.svg" width="48" height="48">
 <img src="/img/html-5.svg" width="48" height="48">
 <img src="/img/python.svg" width="48" height="48">
-  </div>
-### 🌱 Currently focused on learning
+
+  ### 🌱 Currently focused on learning
 <div class="lang">
 <img src="/img/javascript.svg" width="48" height="48">
   </div>

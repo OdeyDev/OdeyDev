@@ -7,7 +7,7 @@ I have recently started learning to develop websites and programs.
 he/him
 
 ### 💾Languages I learned a bit of but left to focus on JS
-<img src="/img/css-3.svg">
+<img src="/img/css-3.svg" width="48" height="48">
 ### 🌱 Currently focused on learning
 
 

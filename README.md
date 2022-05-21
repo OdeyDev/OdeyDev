@@ -16,3 +16,9 @@ he/him
 <div class="lang">
 <img src="/img/javascript.svg" width="48" height="48">
   </div>
+
+  ### 💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeyity&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ### GitHub Stats
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=odeyity&show_icons=true&theme=dark)

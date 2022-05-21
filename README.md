@@ -3,12 +3,11 @@
 I'm Noah, and I love to code!
 
 I have recently started learning to develop websites and programs.
-
 ### 😄 Pronouns 
 he/him
 
 ### 💾Languages I learned a bit of but left to focus on JS
-
+<img src="/img/css-3.svg">
 ### 🌱 Currently focused on learning
 
 

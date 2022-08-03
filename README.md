@@ -15,6 +15,7 @@ he/him
   ### 🌱 Currently focused on learning
 <div class="lang">
 <img src="/img/javascript.svg" width="48" height="48">
+<img src="/img/CSharp.svg" width="48" height="48">
   </div>
 
   ### 💻 Top Languages

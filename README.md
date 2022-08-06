@@ -19,7 +19,7 @@ he/him
   </div>
 
   ### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdeyDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdeyDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ### <img src="/img/github.svg" width="20" height="20"> GitHub Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=odeyity&show_icons=true&theme=dark)

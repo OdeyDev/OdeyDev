@@ -6,6 +6,7 @@
  
 <div class="lang">
   <img src="/img/python.svg" width="48" height="48">
+  <img src="/img/javascript.svg" width="48" height="48">
   
 </div><br><br><br><br>
 
